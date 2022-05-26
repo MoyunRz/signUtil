@@ -1,4 +1,4 @@
-module signUtil
+module github.com/h/signUtil
 
 go 1.17
 
